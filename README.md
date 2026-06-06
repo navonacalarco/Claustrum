@@ -14,14 +14,14 @@
 
 <p align="center">
 Navona Calarco &nbsp;·&nbsp; Skerdi Progri &nbsp;·&nbsp; Sriranga Kashyap &nbsp;·&nbsp; Shuting Xie<br>
-Claude Lepage &nbsp;·&nbsp; Boris C. Bernhardt &nbsp;·&nbsp; Alan C. Evans &nbsp;·&nbsp; Kâmil Uludağ
+Donna Gift Cabalo &nbsp;·&nbsp; Claude Lepage &nbsp;·&nbsp; Boris C. Bernhardt &nbsp;·&nbsp; Alan C. Evans &nbsp;·&nbsp; Kâmil Uludağ
 </p>
 
 ---
 
 ## About
 
-This repository contains the data accompanying our paper on the human claustrum. We provide the manual histological segmentation of the claustrum derived from the *BigBrain* dataset (n=1) at 100 µm isotropic resolution — the highest-resolution reconstruction of this structure available. We also provide manual MRI segmentations from three in vivo 7-Tesla datasets (n=10 per dataset) at 0.5, 0.7, and 1.0mm isotropic resolution, and a cross-modality probabilistic atlas (n=13) registered to MNI space at 0.5 mm isotropic, integrating segmentations spanning histology, ex vivo MRI, and in vivo 7T MRI.
+This repository contains the data accompanying our paper, <i>forthcoming in PNAS</i>, on the human claustrum. We provide the manual histological segmentation of the claustrum derived from the *BigBrain* dataset (n=1) at 100 µm isotropic resolution — the highest-resolution reconstruction of this structure available. We also provide manual MRI segmentations from three in vivo 7-Tesla datasets (n=10 per dataset) at 0.5, 0.7, and 1.0mm isotropic resolution, and a cross-modality probabilistic atlas (n=13) registered to MNI space at 0.5 mm isotropic, integrating segmentations spanning histology, ex vivo MRI, and in vivo 7T MRI.
 
 ---
 
@@ -90,7 +90,7 @@ All data and code in this repository are permanently archived on Zenodo: [![DOI]
 
 ## Citation
 
-If you use these data, please cite:
+This paper is forthcoming in PNAS; a preprint is presently available. If you use these data, please cite:
 
 ```bibtex
 @article{calarco2025claustrum,
@@ -122,5 +122,5 @@ BRAIN-TO Lab, Krembil Brain Institute, UHN
 ---
 
 <p align="center">
-<sub><a href="https://brain-to.github.io/">BRAIN-TO Laboratory</a> &nbsp;·&nbsp; Krembil Brain Institute &nbsp;·&nbsp; UHN &nbsp;·&nbsp; 2025</sub>
+<sub><a href="https://brain-to.github.io/">BRAIN-TO Laboratory</a> &nbsp;·&nbsp; Krembil Brain Institute &nbsp;·&nbsp; UHN &nbsp;·&nbsp; 2026</sub>
 </p>
