@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://www.biorxiv.org/content/10.64898/2025.12.06.692728v1">
-    <img src="assets/githubRepo.png" width="100%" alt="Calarco et al. 2025 — Multiscale characterisation of the human claustrum from histology to MRI"/>
+    <img src="assets/paper_pnas.png" width="100%" alt="Calarco et al. 2025 — Multiscale characterisation of the human claustrum from histology to MRI"/>
   </a>
   <br/>
-  <em>Click to read the preprint →</em> <a href="https://www.biorxiv.org/content/10.64898/2025.12.06.692728v1"><strong>bioRxiv 2025.12.06.692728</strong></a>
+  <em>Click to read the preprint →</em> <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2604111123"><strong>bioRxiv 2025.12.06.692728</strong></a>
   &nbsp;·&nbsp;
   <em>Archived data →</em> &nbsp;<a href="https://doi.org/10.5281/zenodo.19656275"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19656275-blue" alt="DOI"/></a>
 </p>
@@ -21,7 +21,7 @@ Donna Gift Cabalo &nbsp;·&nbsp; Claude Lepage &nbsp;·&nbsp; Boris C. Bernhardt
 
 ## About
 
-This repository contains the data accompanying our paper, <i>forthcoming in PNAS</i>, on the human claustrum. We provide the manual histological segmentation of the claustrum derived from the *BigBrain* dataset (n=1) at 100 µm isotropic resolution — the highest-resolution reconstruction of this structure available. We also provide manual MRI segmentations from three in vivo 7-Tesla datasets (n=10 per dataset) at 0.5, 0.7, and 1.0mm isotropic resolution, and a cross-modality probabilistic atlas (n=13) registered to MNI space at 0.5 mm isotropic, integrating segmentations spanning histology, ex vivo MRI, and in vivo 7T MRI.
+This repository contains the data accompanying our paper on the human claustrum. We provide the manual histological segmentation of the claustrum derived from the *BigBrain* dataset (n=1) at 100 µm isotropic resolution — the highest-resolution reconstruction of this structure available. We also provide manual MRI segmentations from three in vivo 7-Tesla datasets (n=10 per dataset) at 0.5, 0.7, and 1.0mm isotropic resolution, and a cross-modality probabilistic atlas (n=13) registered to MNI space at 0.5 mm isotropic, integrating segmentations spanning histology, ex vivo MRI, and in vivo 7T MRI.
 
 ---
 
@@ -90,17 +90,19 @@ All data and code in this repository are permanently archived on Zenodo: [![DOI]
 
 ## Citation
 
-This paper is forthcoming in PNAS; a preprint is presently available. If you use these data, please cite:
+If you use these data, please cite:
 
 ```bibtex
-@article{calarco2025claustrum,
-  title   = {Multiscale characterisation of the human claustrum from histology to MRI},
-  author  = {Calarco, Navona and Progri, Skerdi and Kashyap, Sriranga and
-             Xie, Shuting and Lepage, Claude and Bernhardt, Boris C. and
-             Evans, Alan C. and Uludag, Kamil},
-  year    = {2025},
-  note    = {Preprint},
-  url     = {https://www.biorxiv.org/content/10.64898/2025.12.06.692728v1}
+@article{Calarco2026Claustrum,
+  author  = {Calarco, Navona and Progri, Skerdi and Kashyap, Sriranga and Xie, Shuting and Lepage, Claude and Cabalo, Donna Gift and Bernhardt, Boris C. and Evans, Alan C. and Ulu{\u{g}}, K{\^a}mil},
+  title   = {Multiscale characterization of the human claustrum from histology to {MRI}},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume  = {123},
+  number  = {27},
+  pages   = {e2604111123},
+  year    = {2026},
+  doi     = {10.1073/pnas.2604111123},
+  url     = {https://doi.org/10.1073/pnas.2604111123}
 }
 ```
 
