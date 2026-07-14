@@ -1,11 +1,16 @@
 <p align="center">
-  <a href="https://www.biorxiv.org/content/10.64898/2025.12.06.692728v1">
-    <img src="assets/paper_pnas.png" width="100%" alt="Calarco et al. 2025 — Multiscale characterisation of the human claustrum from histology to MRI"/>
+  <a href="https://doi.org/10.1073/pnas.2604111123">
+    <img src="assets/paper_pnas.png" width="100%"
+         alt="Calarco et al. 2026 — Multiscale characterization of the human claustrum from histology to MRI"/>
   </a>
   <br/>
-  <em>Click to read the preprint →</em> <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2604111123"><strong>bioRxiv 2025.12.06.692728</strong></a>
+  <em>Paper →</em>
+  <strong><a href="https://doi.org/10.1073/pnas.2604111123">PNAS</a></strong>
   &nbsp;·&nbsp;
-  <em>Archived data →</em> &nbsp;<a href="https://doi.org/10.5281/zenodo.19656275"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19656275-blue" alt="DOI"/></a>
+  <em>Archived data →</em>
+  <a href="https://doi.org/10.5281/zenodo.19656275">
+    <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19656275-blue" alt="Zenodo DOI"/>
+  </a>
 </p>
 
 ---
