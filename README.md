@@ -7,6 +7,9 @@
   <em>Paper →</em>
   <strong><a href="https://doi.org/10.1073/pnas.2604111123">PNAS</a></strong>
   &nbsp;·&nbsp;
+  <em>Lay summary →</em>
+  <strong><a href="https://www.growkudos.com/publications/10.1073%25252Fpnas.2604111123/reader">Kudos</a></strong>
+  &nbsp;·&nbsp;
   <em>Archived data →</em>
   <a href="https://doi.org/10.5281/zenodo.19656275">
     <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19656275-blue" alt="Zenodo DOI"/>
